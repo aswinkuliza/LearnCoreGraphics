@@ -12,6 +12,7 @@
 		B443CB5520C468D7008BC163 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B443CB5320C468D7008BC163 /* Main.storyboard */; };
 		B443CB5720C468DA008BC163 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B443CB5620C468DA008BC163 /* Assets.xcassets */; };
 		B443CB5A20C468DA008BC163 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B443CB5820C468DA008BC163 /* LaunchScreen.storyboard */; };
+		B443CB6220C46CA0008BC163 /* PushButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B443CB6120C46CA0008BC163 /* PushButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,8 @@
 		B443CB5620C468DA008BC163 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B443CB5920C468DA008BC163 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B443CB5B20C468DA008BC163 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B443CB6120C46CA0008BC163 /* PushButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PushButton.swift; sourceTree = "<group>"; };
+		B443CB6320C4E73B008BC163 /* Notes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Notes.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +41,7 @@
 		B443CB4320C468D7008BC163 = {
 			isa = PBXGroup;
 			children = (
+				B443CB6320C4E73B008BC163 /* Notes.playground */,
 				B443CB4E20C468D7008BC163 /* Flo */,
 				B443CB4D20C468D7008BC163 /* Products */,
 			);
@@ -56,6 +60,7 @@
 			children = (
 				B443CB4F20C468D7008BC163 /* AppDelegate.swift */,
 				B443CB5120C468D7008BC163 /* ViewController.swift */,
+				B443CB6120C46CA0008BC163 /* PushButton.swift */,
 				B443CB5320C468D7008BC163 /* Main.storyboard */,
 				B443CB5620C468DA008BC163 /* Assets.xcassets */,
 				B443CB5820C468DA008BC163 /* LaunchScreen.storyboard */,
@@ -137,6 +142,7 @@
 			files = (
 				B443CB5220C468D7008BC163 /* ViewController.swift in Sources */,
 				B443CB5020C468D7008BC163 /* AppDelegate.swift in Sources */,
+				B443CB6220C46CA0008BC163 /* PushButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
