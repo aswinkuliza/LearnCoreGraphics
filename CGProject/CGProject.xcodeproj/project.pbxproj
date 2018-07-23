@@ -15,6 +15,7 @@
 		B49834C720EE0E4800238704 /* FanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49834C620EE0E4800238704 /* FanView.swift */; };
 		B4D265B221007AE400A72D8E /* StarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4D265B121007AE400A72D8E /* StarView.swift */; };
 		B4D265B42101DDAD00A72D8E /* Line.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4D265B32101DDAD00A72D8E /* Line.swift */; };
+		B4D265B82105AD8000A72D8E /* ElasticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4D265B72105AD8000A72D8E /* ElasticView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		B49834C620EE0E4800238704 /* FanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FanView.swift; sourceTree = "<group>"; };
 		B4D265B121007AE400A72D8E /* StarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StarView.swift; sourceTree = "<group>"; };
 		B4D265B32101DDAD00A72D8E /* Line.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Line.swift; sourceTree = "<group>"; };
+		B4D265B72105AD8000A72D8E /* ElasticView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElasticView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				B49834B620EDFE6E00238704 /* ViewController.swift */,
 				B49834C620EE0E4800238704 /* FanView.swift */,
 				B4D265B121007AE400A72D8E /* StarView.swift */,
+				B4D265B72105AD8000A72D8E /* ElasticView.swift */,
 				B49834B820EDFE6E00238704 /* Main.storyboard */,
 				B49834BB20EDFE7900238704 /* Assets.xcassets */,
 				B49834BD20EDFE7900238704 /* LaunchScreen.storyboard */,
@@ -148,6 +151,7 @@
 				B49834B720EDFE6E00238704 /* ViewController.swift in Sources */,
 				B4D265B221007AE400A72D8E /* StarView.swift in Sources */,
 				B49834B520EDFE6E00238704 /* AppDelegate.swift in Sources */,
+				B4D265B82105AD8000A72D8E /* ElasticView.swift in Sources */,
 				B4D265B42101DDAD00A72D8E /* Line.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
